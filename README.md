@@ -64,7 +64,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Abhishek Niraj]
+- Author - Abhishek Niraj
 - Website - [https://iphtechnologies.org/](https://iphtechnologies.org/)
 
 ## License
